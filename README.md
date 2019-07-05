@@ -1,4 +1,4 @@
-# Protocols
+# Renal MRI protocols
 
 This repository holds a collection of renal MRI acquisition protocols that are compliant with the PARENCHIMA technical recommendations for clinical renal MRI put forward by Task force 1.2:
 
