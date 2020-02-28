@@ -18,7 +18,7 @@ They will forward your submission to the chairs of the expert panels who will ch
 
 # Formatting
 
-Please submit a single file for each MRI method (ASL, DWI, BOLD or T1-T2), in pdf form and including a cover page stating:
+Please submit a single file for each MRI method (ASL, DWI, BOLD or T1-T2) in pdf form. The first two pages should be the cover pages adapated from the template provided in this folder (PARENCHIMA_protocol_coverpage_template.docx). The other pages should define the sequence in vendor-specific format. The cover pages contain the following information:
 
 (1) Author names, contact details and affiliation;
  
@@ -28,13 +28,15 @@ Please submit a single file for each MRI method (ASL, DWI, BOLD or T1-T2), in pd
 
 (4) References to publications presenting results that were obtained with the protocol.
 
+(5) Licensing statement (should not be modified)
+
 Please use the following naming convention for the files:
 
 mrimethod_vendorname_softwareversion_scannermodel_authorname.pdf
 
 # Non-compliant protocols
 
-We can also make non-compliant renal MRI protocols available on this page, or protocols describing methods for which recommendations are not yet available. Please send a single pdf to the task force leads with the same cover page as compliant protocols. pdf's for non-compliant protocols can contain multiple sequences and should be named as follows:
+We can also make non-compliant renal MRI protocols available on this page, or protocols describing methods for which recommendations are not yet available. Please send a single pdf to the task force leads - this has free formatting. pdf's for non-compliant protocols can contain multiple sequences and should be named as follows:
 
 authorname_protocolname.pdf
 
