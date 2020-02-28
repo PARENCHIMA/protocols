@@ -11,6 +11,7 @@ This repository acts as supplementary material to the published recommendations 
 If you have protocols that are compliant with the recommendations then please foward those to the PARENCHIMA task force leads:
 
 Dr. Pim Pullens (Pim.Pullens@uzgent.be, University Hospital Ghent, Belgium)
+
 Prof. Steven Sourbron (s.sourbron@sheffield.ac.uk, University of Sheffield, UK)
 
 They will forward your submission to the chairs of the expert panels who will check for compliance with the recommendations. If the panel chairs confirm that the protocols are compliant then they will be made available on this github page.
@@ -19,9 +20,12 @@ They will forward your submission to the chairs of the expert panels who will ch
 
 Please submit a single file for each MRI method (ASL, DWI, BOLD or T1-T2), in pdf form and including a cover page stating:
 
-(1) Author names, contact details and affiliation; 
+(1) Author names, contact details and affiliation;
+ 
 (2) Protocol specifications such as vendor, scanner model, software version, sites and scanners where it has been tested; 
+
 (3) Provenance (who set up the protocol, when, for which study, where has it been used); 
+
 (4) References to publications presenting results that were obtained with the protocol.
 
 Please use the following naming convention for the files:
