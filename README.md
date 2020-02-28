@@ -34,7 +34,7 @@ mrimethod_vendorname_softwareversion_scannermodel_authorname.pdf
 
 # Non-compliant protocols
 
-We can also make non-compliant renal MRI protocols available on this page, or protocols describing methods for which recommendations are not yet available. Please send a single pdf the taks force leads with the same cover page as compliant protocols. pdf's for non-compliant protocols can contain multiple sequences and should be named as follows:
+We can also make non-compliant renal MRI protocols available on this page, or protocols describing methods for which recommendations are not yet available. Please send a single pdf to the task force leads with the same cover page as compliant protocols. pdf's for non-compliant protocols can contain multiple sequences and should be named as follows:
 
 authorname_protocolname.pdf
 
