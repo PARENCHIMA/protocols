@@ -20,13 +20,19 @@ They will forward your submission to the chairs of the expert panels who will ch
 Please submit a single file for each MRI method (ASL, DWI, BOLD or T1-T2), in pdf form and including a cover page stating:
 
 (1) Author names, contact details and affiliation; 
-(2) Protocol specifications such as vendor, scanner model, software version, sites where it has been tested; 
+(2) Protocol specifications such as vendor, scanner model, software version, sites and scanners where it has been tested; 
 (3) Provenance (who set up the protocol, when, for which study, where has it been used); 
 (4) References to publications presenting results that were obtained with the protocol.
 
+Please use the following naming convention for the files:
+
+mrimethod_vendorname_softwareversion_scannermodel_authorname.pdf
+
 # Non-compliant protocols
 
-We can also make non-compliant renal MRI protocols available on this page, or protocols describing methods for which recommendations are not yet available. Please send a single pdf the taks force leads with the same cover page as compliant protocols.
+We can also make non-compliant renal MRI protocols available on this page, or protocols describing methods for which recommendations are not yet available. Please send a single pdf the taks force leads with the same cover page as compliant protocols. pdf's for non-compliant protocols can contain multiple sequences and should be named as follows:
+
+authorname_protocolname.pdf
 
 # Licensing
 
