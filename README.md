@@ -36,7 +36,7 @@ mrimethod_vendorname_softwareversion_scannermodel_authorname.pdf
 
 # Non-compliant protocols
 
-We can also make non-compliant renal MRI protocols available on this page, or protocols describing methods for which recommendations are not yet available. Please send a single pdf to the task force leads - this has free formatting. pdf's for non-compliant protocols can contain multiple sequences and should be named as follows:
+We can also make non-compliant renal MRI protocols available on this page, or protocols describing methods for which recommendations are not yet available. Please send a single pdf to the task force leads - this has free formatting and should not use the PARENCHIMA template or logo, but please include some references to the studies or publications where the protocol has been used. pdf's for non-compliant protocols can contain multiple sequences and should be named as follows:
 
 authorname_protocolname.pdf
 
